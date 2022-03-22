@@ -1,0 +1,2 @@
+#! /nix/store/vfai0jim0db67nk9rd7ziq29jxb5n79n-bash-5.1-p8/bin/bash -e
+exec "/nix/store/hq156pf6ysvdx2plqgfhjpka5xsn43bp-java-debug/bin/java-dap"  --use-ephemeral-port --debug-plugin /nix/store/5crdhk16995za6g7kyvk334l4d5rfb5g-java-debug-plugin/lib/java-debug.jar --language-server /nix/store/dkzq7dz5jwiyv0zqb52pswl6wlzwrjzc-jdt-language-server-1.6.0/bin/jdt-language-server "$@"

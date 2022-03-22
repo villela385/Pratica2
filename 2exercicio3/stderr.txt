@@ -1,0 +1,34 @@
+OpenJDK 64-Bit Server VM warning: Options -Xverify:none and -noverify were deprecated in JDK 13 and will likely be removed in a future release.
+Feb 15, 2022, 7:43:07 PM Main thread is waiting
+Feb 15, 2022, 7:43:07 PM >> initialize
+Feb 15, 2022, 7:43:07 PM Initializing Java Language Server 1.6.0.202111261512
+Feb 15, 2022, 7:43:07 PM No workspace folders or root uri was defined. Falling back on /home/runner/.cache/jdt-language-server/data/home/runner/Java-Nix-4
+Feb 15, 2022, 7:43:07 PM Installed reference:file:/nix/store/5crdhk16995za6g7kyvk334l4d5rfb5g-java-debug-plugin/lib/java-debug.jar
+Feb 15, 2022, 7:43:08 PM Started reference:file:/nix/store/5crdhk16995za6g7kyvk334l4d5rfb5g-java-debug-plugin/lib/java-debug.jar
+Feb 15, 2022, 7:43:08 PM Static Commands: []
+Feb 15, 2022, 7:43:08 PM Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+Feb 15, 2022, 7:43:08 PM Static Commands: []
+Feb 15, 2022, 7:43:08 PM Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+Feb 15, 2022, 7:43:08 PM Wait for AutoBuildOffJob start
+Feb 15, 2022, 7:43:08 PM Wait for AutoBuildOffJob end 1ms
+Feb 15, 2022, 7:43:08 PM Starting org.eclipse.m2e.core
+Feb 15, 2022, 7:43:08 PM Started org.eclipse.m2e.core 1ms
+Feb 15, 2022, 7:43:08 PM ProjectRegistryRefreshJob finished 0ms
+Feb 15, 2022, 7:43:08 PM Starting org.eclipse.buildship.core
+Feb 15, 2022, 7:43:08 PM Started org.eclipse.buildship.core 47ms
+Feb 15, 2022, 7:43:08 PM LoadingGradleVersionJob finished 477ms
+Feb 15, 2022, 7:43:08 PM >> workspace/executeCommand vscode.java.startDebugSession
+Feb 15, 2022, 7:43:08 PM Creating the Java project jdt.ls-java-project
+Feb 15, 2022, 7:43:08 PM Starting com.microsoft.java.debug.plugin
+Feb 15, 2022, 7:43:08 PM Finished creating the Java project jdt.ls-java-project
+Feb 15, 2022, 7:43:08 PM Trying to launch Java Program with options:
+main-class: Main
+args: 
+module-path: 
+class-path: .
+vmArgs: 
+Feb 15, 2022, 7:43:09 PM Debug connection closed
+Feb 15, 2022, 7:43:09 PM Launching debuggee in terminal console succeeded.
+Feb 15, 2022, 7:43:09 PM Debug connection closed
+Feb 15, 2022, 7:43:10 PM Workspace initialized in 1631ms
+Feb 15, 2022, 7:43:13 PM Debug connection closed
